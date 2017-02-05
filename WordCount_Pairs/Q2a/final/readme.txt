@@ -1,0 +1,1 @@
+spark-submit --class "WordCount_decreasing" WordCount_decreasing.jar /Users/DS/Downloads/SPARK_HOME/Q2/Q2a/input/ /Users/DS/Downloads/SPARK_HOME/Q2/Q2a/output 

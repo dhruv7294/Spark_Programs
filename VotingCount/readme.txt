@@ -1,0 +1,1 @@
+spark-submit --class "Voting" Voting.jar /Users/DS/Downloads/SPARK_HOME/Q1/input/ /Users/DS/Downloads/SPARK_HOME/Q1/output /Users/DS/Downloads/SPARK_HOME/Q1/output/mean

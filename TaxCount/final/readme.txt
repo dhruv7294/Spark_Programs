@@ -1,0 +1,1 @@
+spark-submit --class "TaxCount" TaxCount.jar /Users/DS/Downloads/SPARK_HOME/Q3/input/ /Users/DS/Downloads/SPARK_HOME/Q3/output

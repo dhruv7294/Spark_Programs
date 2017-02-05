@@ -1,0 +1,1 @@
+spark-submit --class "WordCount_pairs" WordCount_pairs.jar /Users/DS/Downloads/SPARK_HOME/Q2/Q2b/input/ /Users/DS/Downloads/SPARK_HOME/Q2/Q2b/output
